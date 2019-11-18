@@ -2,7 +2,7 @@
 # Section: 9:30 CIS 115
 # Project: Pickup Sticks Game (hw4)
 # Description: This pickup sticks game program is an implementation of the simple game of pickup sticks
-# There are two players, either person vs person, person vs self, ai vs ai, ai vs person, or ai vs self
+# There are two players
 # At the beginning of a turn a player can pickup 1-3 sticks. Turns go back and forth until the player that takes the
 # last stick wins. The game will run until the user does not want to 
 
